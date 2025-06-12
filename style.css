@@ -1,0 +1,77 @@
+body{
+  background-image: url(Univ.jpg);
+}
+#h1{
+  border: solid, slateblue;
+  background-color: darkslateblue;
+  color: darkorange;
+  box-shadow: 6px 6px 7px black;
+  font-size: 60px
+}
+#p1{
+  color: white;
+  font-size: 30px
+}
+#a1{
+  font-size: 40px;
+  margin: 500px;
+}
+#box{
+  width: 850px;
+  height: 1000px;
+  background-color: darkslateblue;
+  box-shadow: 20px 20px 7px;
+  margin: auto;
+}
+#h2{
+  font-size: 30px;
+  color: darkorange;
+}
+#inbox1{
+  width: 700px;
+  height: 250px;
+  overflow: scroll;
+  background-color: slateblue;
+  margin: auto;
+  color: cornsilk;
+  font-size: 25px;
+}
+#h3{
+  font-size: 50px;
+  color: white;
+}
+#h8{
+  color: white;
+  font-size: 100px;
+}
+#div1{
+  width: 700px;
+  height: 900px;
+  background-color: antiquewhite;
+  margin: auto;
+  font-size: 50px;
+  overflow: scroll;
+}
+input{
+  margin: auto;
+  width: 360px;
+  height: 40px;
+}
+#submit1{
+  margin: 5px;
+  font-size: 50px;
+  background-color: darkslateblue;
+  color: white;
+}
+#logout{
+  margin: 5px;
+  font-size: 50px;
+  background-color: darkslateblue;
+  color: white;
+}
+#infor{
+  margin: 5px;
+  font-size: 50px;
+  background-color: darkslateblue;
+  color: white;
+}
